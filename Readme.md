@@ -18,19 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-###
+## Vibe Coded Projects
 
-<div align="left">
-  <a href="https://linkedin.com/in/nirmitsaini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/nirmit_saini" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:nirmitsaini24@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+- 🟢 **[Neon Rotator](https://github.com/nirmitsaini1024/neon-rotator)** — Automatically rotates Neon DB instances when limits are hit.
+- 📊 **[Miniature-chainsaw](https://github.com/nirmitsaini1024/miniature-chainsaw)** — A web application to download files from Private Telegram channels.
+- 🚀 **[Binance Bot](https://github.com/nirmitsaini1024/binance-bit)** — Tool for tracking Binance market data and trading analytics.
+
 
 ###
 
