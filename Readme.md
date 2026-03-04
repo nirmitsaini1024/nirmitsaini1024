@@ -22,7 +22,7 @@
 
 - 🟢 **[Neon Rotator](https://github.com/nirmitsaini1024/neon-rotator)** — Automatically rotates Neon DB instances when limits are hit.
 - 📊 **[Miniature-chainsaw](https://github.com/nirmitsaini1024/miniature-chainsaw)** — A web application to download files from Private Telegram channels.
-- 🚀 **[Binance Bot](https://github.com/nirmitsaini1024/binance-bit)** — Tool for tracking Binance market data and trading analytics.
+- 🚀 **[Binance Bot](https://github.com/nirmitsaini1024/binance-bot)** — Tool for tracking Binance market data and trading analytics.
 
 
 ###
