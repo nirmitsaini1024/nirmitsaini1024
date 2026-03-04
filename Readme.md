@@ -20,7 +20,7 @@
 
 ## Vibe Coded Projects
 
-- 🟢 **[Neon Rotator](https://github.com/nirmitsaini1024/neon-rotator)** — Automatically rotates Neon DB instances when limits are hit.
+- 🟢 **[Database Rotator](https://github.com/nirmitsaini1024/db-rotator)** — Automatically rotates DB instances when limits are hit on supabase or neondb.
 - 📊 **[Miniature-chainsaw](https://github.com/nirmitsaini1024/miniature-chainsaw)** — A web application to download files from Private Telegram channels.
 - 🚀 **[Binance Bot](https://github.com/nirmitsaini1024/binance-bot)** — Tool for tracking Binance market data and trading analytics.
 
