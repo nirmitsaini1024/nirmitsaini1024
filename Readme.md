@@ -23,6 +23,7 @@
 - 🟢 **[Database Rotator](https://github.com/nirmitsaini1024/db-rotator)** — Automatically rotates DB instances when limits are hit on supabase or neondb.
 - 📊 **[Miniature-chainsaw](https://github.com/nirmitsaini1024/miniature-chainsaw)** — A web application to download files from Private Telegram channels.
 - 🚀 **[Binance Bot](https://github.com/nirmitsaini1024/binance-bot)** — Tool for tracking Binance market data and trading analytics.
+- 🚀 **[Ai Persona Chat Bot](https://github.com/nirmitsaini1024/ai-persona-chat-bot)** — AI chatbot that mimics someone's WhatsApp texting style using their real chat history.
 
 
 ###
